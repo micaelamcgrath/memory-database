@@ -43,7 +43,7 @@ Run the Python script: python in_memory_db_transactions.py
 
 **Example Usage**
 
-The code includes an example demonstrating the functionality:
+The code includes an example demonstrating the functionality. For the parts of the example code that should throw exceptions, the code stops running and prints out the text defined above. If you would like to check the rest of the file, just comment out the line of code that throws the exceptions so you can see the next line's behavior.
 
 # Create the database instance
 db = InMemoryDB()
