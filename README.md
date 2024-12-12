@@ -35,9 +35,9 @@ _**Requirements**_
 
 _**Running the Code**_
 
-Clone the repository to your local machine: git clone <repository-url>
+Clone the repository to your local machine: git clone [repository-url]
 
-Navigate to the project directory: cd <project-directory>
+Navigate to the project directory: cd [project-directory]
 
 Run the Python script: python in_memory_db_transactions.py
 
